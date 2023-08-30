@@ -19,7 +19,7 @@ public class Array1D {
         // for output
         System.out.println();
         for (int i = 0; i < emp.length; i++) {
-            System.out.println(emp[i]);
+            System.out.print(emp[i] + " ");
         }
 
     }
