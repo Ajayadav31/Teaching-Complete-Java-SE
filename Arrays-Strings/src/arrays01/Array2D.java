@@ -7,9 +7,6 @@ public class Array2D {
 
         Scanner kb = new Scanner(System.in);
 
-        // int[] brr = new int[3];
-        // System.out.println(brr.length);
-
         // 2D arrays
         int[][] arr = new int[3][6];
 
