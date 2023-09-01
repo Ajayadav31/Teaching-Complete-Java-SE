@@ -1,0 +1,12 @@
+
+fistly create a repo in github
+copy the link 
+
+in bash:
+
+git clone <link>
+copy paste project / or create project 
+create .gitignore file
+git add .
+git commit -m "project completed"
+git push -u origin main
