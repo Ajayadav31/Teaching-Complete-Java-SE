@@ -15,7 +15,7 @@ public class Array2D {
         // i for upper for loop -> row
         for (int i = 0; i < arr.length; i++) {
             // j for inner for loop -> colume
-            System.out.println("Enter values for: arr[" + i + "] " + "-> enter 5 elements");
+            System.out.println("Enter values for: arr[" + i + "] " + "-> enter 6 elements");
 
            // for (int j = 0; j < arr[0].length - 1; j++) {
             	for (int j = 0; j < arr[0].length ; j++) {
